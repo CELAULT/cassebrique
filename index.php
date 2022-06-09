@@ -15,7 +15,7 @@
 				<div class="Fenetre">
 					<div class="ChoixDifficulté" id="Difficulte">
 						<span>Choisissez votre difficulté :</span>
-						<button onclick="ChoisirDifficulte(999)">FACILE</button>
+						<button onclick="ChoisirDifficulte(10)">FACILE</button>
 						<button onclick="ChoisirDifficulte(4)">NORMAL</button>
 						<button onclick="ChoisirDifficulte(0)">DIFFICILE</button>
 					</div>
